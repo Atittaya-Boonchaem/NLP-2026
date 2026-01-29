@@ -2,4 +2,4 @@
 ### Lab ในวิชา 231341 NLP ปีการศึกษา 2569 ภาคเรียนที่ 2
 
 # Run
-### streamlit
+### streamlit run app.py
